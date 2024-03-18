@@ -1,0 +1,11 @@
+# General settings
+token: "Token of your discord bot."
+channel_name: "Name of the channel where the messages will be sent."
+
+# Messages shown in the game or discord chat channel
+proxy_server_started: "# Proxy server has started."
+proxy_server_stopped: "# Proxy server has stopped."
+message_sent_to_discord: "[%server_name%]%player_name%:%message%"
+message_sent_to_minecraft: "§9(Discord)%player_name%:§f%message%"
+player_joined: "```%player_name% joined the %server_name% server.```"
+player_left: "```%player_name% left the proxy server.```"
